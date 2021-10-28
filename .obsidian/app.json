@@ -3,5 +3,11 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Golang",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "AttachFile"
+  "attachmentFolderPath": "AttachFile",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -6,10 +6,11 @@
       {
         "id": "b753e7fb9841d36e",
         "type": "leaf",
+        "dimension": 45.38461538461539,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/Golang扩展数据类型.md",
+            "file": "Golang/Golang流程控制.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "63fb2bf546ac01f7",
         "type": "leaf",
+        "dimension": 54.61538461538461,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Golang/Golang扩展数据类型.md",
+            "file": "Golang/Golang流程控制.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -97,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "64e6a343a0d9b77e",
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/Golang扩展数据类型.md",
+                "file": "Golang/Golang流程控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/Golang扩展数据类型.md",
+                "file": "Golang/Golang流程控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/Golang扩展数据类型.md"
+                "file": "Golang/Golang流程控制.md"
               }
             }
           }
@@ -166,12 +169,15 @@
   },
   "active": "b753e7fb9841d36e",
   "lastOpenFiles": [
-    "Golang/Golang扩展数据类型.md",
+    "Golang/Golang流程控制.md",
+    "Golang/分支控制.md",
+    "Golang/顺序控制.md",
+    "Golang/跳转控制语句.md",
+    "Golang/循环控制.md",
     "README.md",
+    "Golang/Golang关键字.md",
+    "Golang/Golang扩展数据类型.md",
     "Golang/Golang保留字.md",
-    "Golang/Builtn Functions.md",
-    "Golang/Builtin Types.md",
-    "Golang/Builtin Constants.md",
-    "Golang/Golang关键字.md"
+    "Golang/Builtn Functions.md"
   ]
 }
