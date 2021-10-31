@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/循环控制.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         },
         "group": "55c10d52d7207272"
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Golang/循环控制.md",
+            "file": "README.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/循环控制.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/循环控制.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/循环控制.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,9 +166,9 @@
   },
   "active": "48029999615cb3b4",
   "lastOpenFiles": [
+    "README.md",
     "Golang/循环控制.md",
     "Golang/Golang流程控制.md",
-    "README.md",
     "Golang/分支控制.md",
     "Golang/顺序控制.md",
     "Golang/switch分支控制.md",
