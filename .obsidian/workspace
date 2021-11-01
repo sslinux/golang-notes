@@ -4,67 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fab23be6dcde1fa7",
+        "id": "7130c9707854c40f",
         "type": "leaf",
-        "dimension": 33.8777979431337,
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "663a94ad8aa7cc3a",
-        "type": "leaf",
-        "dimension": 23.35148215366001,
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Golang/循环控制.md",
             "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "4ff661b595078d61",
-        "type": "leaf",
-        "dimension": 42.77071990320629,
-        "pinned": true,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "README.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -180,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fab23be6dcde1fa7",
+  "active": "7130c9707854c40f",
   "lastOpenFiles": [
     "README.md",
-    "Golang/循环控制.md",
-    "Golang/break语句.md",
-    "Golang/多重循环.md",
-    "Golang/do..while循环实现.md",
-    "Golang/while循环实现.md",
+    "Golang/跳转控制语句.md",
     "Golang/Golang流程控制.md",
     "Golang/分支控制.md",
-    "Golang/顺序控制.md",
-    "Golang/switch分支控制.md"
+    "Golang/循环控制.md",
+    "Golang/break语句.md",
+    "Golang/continue语句.md",
+    "Golang/多重循环.md",
+    "Golang/do..while循环实现.md",
+    "Golang/while循环实现.md"
   ]
 }
