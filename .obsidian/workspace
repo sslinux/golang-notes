@@ -6,22 +6,24 @@
       {
         "id": "7130c9707854c40f",
         "type": "leaf",
+        "dimension": 30.369026013309135,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Golang/Golang关键字.md",
             "mode": "source"
           }
         },
-        "group": "8e1fde6df6c4f576"
+        "group": "a7760cf994aa51df"
       },
       {
-        "id": "e1d12bd079224635",
+        "id": "db5041630df7051f",
         "type": "leaf",
+        "dimension": 69.63097398669088,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "README.md",
+            "file": "Golang/Golang关键字.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,12 +46,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.7132754626224421,
+              "scale": 1.4019828977761022,
               "close": false
             }
           }
         },
-        "group": "8e1fde6df6c4f576"
+        "group": "a7760cf994aa51df"
       }
     ],
     "direction": "vertical"
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Golang/Golang关键字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Golang/Golang关键字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,28 +155,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Golang/Golang关键字.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "7130c9707854c40f",
   "lastOpenFiles": [
-    "README.md",
-    "Golang/break语句.md",
-    "Golang/跳转控制语句.md",
-    "Golang/continue语句.md",
-    "Golang/Golang流程控制.md",
-    "Golang/while循环实现.md",
+    "Golang/Golang关键字.md",
+    "Golang/fallthrough.md",
+    "Golang/switch分支控制.md",
+    "Golang/default.md",
+    "Golang/if.md",
+    "Golang/else.md",
     "Golang/分支控制.md",
-    "Golang/循环控制.md",
-    "Golang/多重循环.md",
-    "Golang/do..while循环实现.md"
+    "Golang/continue.md",
+    "Golang/continue语句.md",
+    "README.md"
   ]
 }
