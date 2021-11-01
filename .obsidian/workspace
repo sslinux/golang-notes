@@ -4,20 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "48029999615cb3b4",
+        "id": "fab23be6dcde1fa7",
         "type": "leaf",
+        "dimension": 33.8777979431337,
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
             "mode": "preview"
           }
-        },
-        "group": "55c10d52d7207272"
+        }
+      },
+      {
+        "id": "663a94ad8aa7cc3a",
+        "type": "leaf",
+        "dimension": 23.35148215366001,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Golang/循环控制.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
       },
       {
         "id": "4ff661b595078d61",
         "type": "leaf",
+        "dimension": 42.77071990320629,
+        "pinned": true,
         "state": {
           "type": "localgraph",
           "state": {
@@ -47,9 +63,9 @@
               "scale": 1,
               "close": false
             }
-          }
-        },
-        "group": "55c10d52d7207272"
+          },
+          "pinned": true
+        }
       }
     ],
     "direction": "vertical"
@@ -164,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48029999615cb3b4",
+  "active": "fab23be6dcde1fa7",
   "lastOpenFiles": [
     "README.md",
     "Golang/循环控制.md",
+    "Golang/break语句.md",
+    "Golang/多重循环.md",
+    "Golang/do..while循环实现.md",
+    "Golang/while循环实现.md",
     "Golang/Golang流程控制.md",
     "Golang/分支控制.md",
     "Golang/顺序控制.md",
-    "Golang/switch分支控制.md",
-    "Golang/跳转控制语句.md",
-    "Golang/Golang关键字.md",
-    "Golang/Golang扩展数据类型.md",
-    "Golang/Golang保留字.md"
+    "Golang/switch分支控制.md"
   ]
 }
