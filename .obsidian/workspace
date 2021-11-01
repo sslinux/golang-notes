@@ -12,7 +12,44 @@
             "file": "README.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "8e1fde6df6c4f576"
+      },
+      {
+        "id": "e1d12bd079224635",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "README.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.7132754626224421,
+              "close": false
+            }
+          }
+        },
+        "group": "8e1fde6df6c4f576"
       }
     ],
     "direction": "vertical"
@@ -82,7 +119,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -120,24 +157,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7130c9707854c40f",
   "lastOpenFiles": [
     "README.md",
+    "Golang/break语句.md",
     "Golang/跳转控制语句.md",
+    "Golang/continue语句.md",
     "Golang/Golang流程控制.md",
+    "Golang/while循环实现.md",
     "Golang/分支控制.md",
     "Golang/循环控制.md",
-    "Golang/break语句.md",
-    "Golang/continue语句.md",
     "Golang/多重循环.md",
-    "Golang/do..while循环实现.md",
-    "Golang/while循环实现.md"
+    "Golang/do..while循环实现.md"
   ]
 }
