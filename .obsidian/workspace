@@ -6,11 +6,11 @@
       {
         "id": "7130c9707854c40f",
         "type": "leaf",
-        "dimension": 30.369026013309135,
+        "dimension": 43.43617664851785,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/Golang关键字.md",
+            "file": "Golang/goto语句.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "db5041630df7051f",
         "type": "leaf",
-        "dimension": 69.63097398669088,
+        "dimension": 56.56382335148216,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Golang/Golang关键字.md",
+            "file": "Golang/goto语句.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.4019828977761022,
+              "scale": 1.000000000000001,
               "close": false
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/Golang关键字.md",
+                "file": "Golang/goto语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/Golang关键字.md",
+                "file": "Golang/goto语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/Golang关键字.md"
+                "file": "Golang/goto语句.md"
               }
             }
           }
@@ -168,15 +168,15 @@
   },
   "active": "7130c9707854c40f",
   "lastOpenFiles": [
+    "Golang/goto语句.md",
+    "Golang/跳转控制语句.md",
+    "Golang/continue语句.md",
+    "Golang/break语句.md",
+    "Golang/Golang流程控制.md",
+    "README.md",
     "Golang/Golang关键字.md",
     "Golang/fallthrough.md",
     "Golang/switch分支控制.md",
-    "Golang/default.md",
-    "Golang/if.md",
-    "Golang/else.md",
-    "Golang/分支控制.md",
-    "Golang/continue.md",
-    "Golang/continue语句.md",
-    "README.md"
+    "Golang/default.md"
   ]
 }
