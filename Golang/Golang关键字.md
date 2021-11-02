@@ -1,11 +1,15 @@
 #Golang关键字
 
 # [[break]]
+* [[break语句]]
 # [[default]]
 # [[func]]
 # [[interface]]
 # [[select]]
-# [[case]]
+# case
+* [[分支控制#switch分支控制]]
+* [[分支控制#switch注意事项和细节]]
+* [[分支控制#switch注意事项和细节]]
 # [[defer]]
 # [[go]]
 # [[map]]

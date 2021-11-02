@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/return语句.md",
+            "file": "Golang/函数.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Golang/return语句.md",
+            "file": "Golang/函数.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/return语句.md",
+                "file": "Golang/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/return语句.md",
+                "file": "Golang/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/return语句.md"
+                "file": "Golang/函数.md"
               }
             }
           }
@@ -166,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7130c9707854c40f",
+  "active": "db5041630df7051f",
   "lastOpenFiles": [
+    "Golang/函数.md",
+    "README.md",
+    "Golang/Golang关键字.md",
+    "Golang/分支控制.md",
+    "Golang/多重循环.md",
+    "Golang/循环控制.md",
     "Golang/return语句.md",
     "Golang/跳转控制语句.md",
     "Golang/goto语句.md",
-    "Golang/continue语句.md",
-    "Golang/break语句.md",
-    "Golang/Golang流程控制.md",
-    "README.md",
-    "Golang/Golang关键字.md",
-    "Golang/fallthrough.md",
-    "Golang/switch分支控制.md"
+    "Golang/continue语句.md"
   ]
 }
