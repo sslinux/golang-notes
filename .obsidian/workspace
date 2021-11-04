@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f566427e52be99",
+        "id": "fbebb7de18bc7331",
         "type": "leaf",
+        "dimension": 26.92075015124017,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/Builtn Functions.md",
-            "mode": "source"
+            "file": "Golang/Golang保留字.md",
+            "mode": "preview"
           }
         },
-        "group": "c04f9d197f686e40"
+        "group": "8c7a23c139357b3d"
       },
       {
-        "id": "a970f476a7c1dbce",
+        "id": "80a89fd2ae240ae1",
         "type": "leaf",
+        "dimension": 73.07924984875983,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Golang/Builtn Functions.md",
+            "file": "Golang/Golang保留字.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,12 +46,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.0000000000000002,
               "close": false
             }
           }
         },
-        "group": "c04f9d197f686e40"
+        "group": "8c7a23c139357b3d"
       }
     ],
     "direction": "vertical"
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/Builtn Functions.md",
+                "file": "Golang/Golang保留字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/Builtn Functions.md",
+                "file": "Golang/Golang保留字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/Builtn Functions.md"
+                "file": "Golang/Golang保留字.md"
               }
             }
           }
@@ -164,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a970f476a7c1dbce",
+  "active": "80a89fd2ae240ae1",
   "lastOpenFiles": [
-    "Golang/Builtn Functions.md",
-    "GolangNotes.md",
-    "Golang/switch分支控制.md",
     "Golang/Golang保留字.md",
-    "Golang/Golang关键字.md",
-    "Golang/Golang运算符.md",
-    "Golang/return语句.md",
-    "Golang/循环控制.md",
-    "Golang/函数.md",
-    "Golang/分支控制.md"
+    "Golang/make.md",
+    "Golang/Builtn Functions.md",
+    "Golang/Builtin Constants.md",
+    "Golang/nil.md",
+    "Golang/bool.md",
+    "Golang/true.md",
+    "Golang/iota.md",
+    "Golang/false.md",
+    "Golang/Builtin Types.md"
   ]
 }

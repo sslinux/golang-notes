@@ -1,3 +1,5 @@
+#builtin
+
 # [[Builtin Constants]]
 * [[true]]
 * [[false]]
@@ -38,6 +40,5 @@
 * [[imag]]
 * [[panic]]
 * [[recover]]
-* [[defer]]
 
 
