@@ -4,15 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "a970f476a7c1dbce",
+        "id": "136f3d1b6be3bfc6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/len.md",
+            "file": "Golang/Go变量.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d61f8e2f7f574639"
+      },
+      {
+        "id": "71000082d75cfd26",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Golang/Go变量.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "d61f8e2f7f574639"
       }
     ],
     "direction": "vertical"
@@ -76,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/len.md",
+                "file": "Golang/Go变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/len.md",
+                "file": "Golang/Go变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/len.md"
+                "file": "Golang/Go变量.md"
               }
             }
           }
@@ -127,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a970f476a7c1dbce",
+  "active": "136f3d1b6be3bfc6",
   "lastOpenFiles": [
-    "Golang/len.md",
-    "Golang/Golang保留字.md",
-    "Golang/Builtn Functions.md",
+    "Golang/Go变量.md",
+    "Golang/默认值.md",
     "GolangNotes.md",
-    "Golang/switch分支控制.md",
-    "Golang/Golang关键字.md",
-    "Golang/Golang运算符.md",
-    "Golang/return语句.md",
-    "Golang/循环控制.md",
-    "Golang/函数.md"
+    "Golang/Golang程序编写规则.md",
+    "Golang/golang特性.md",
+    "Golang/API.md",
+    "Golang/注释.md",
+    "Golang/转义字符.md",
+    "Golang/fmt.md",
+    "Golang/package.md"
   ]
 }
