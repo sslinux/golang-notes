@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/Go变量.md",
+            "file": "Golang/Golang基本数据类型.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Golang/Go变量.md",
+            "file": "Golang/Golang基本数据类型.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/Go变量.md",
+                "file": "Golang/Golang基本数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/Go变量.md",
+                "file": "Golang/Golang基本数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/Go变量.md"
+                "file": "Golang/Golang基本数据类型.md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "136f3d1b6be3bfc6",
   "lastOpenFiles": [
+    "Golang/Golang基本数据类型.md",
     "Golang/Go变量.md",
-    "Golang/默认值.md",
+    "Golang/Golang扩展数据类型.md",
+    "Golang/加号.md",
+    "Golang/变量赋值.md",
+    "Golang/变量初始化.md",
+    "Golang/变量声明.md",
     "GolangNotes.md",
-    "Golang/Golang程序编写规则.md",
-    "Golang/golang特性.md",
-    "Golang/API.md",
-    "Golang/注释.md",
-    "Golang/转义字符.md",
-    "Golang/fmt.md",
-    "Golang/package.md"
+    "Golang/默认值.md",
+    "Golang/Golang程序编写规则.md"
   ]
 }
