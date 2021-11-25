@@ -27,5 +27,4 @@ func main() {
 
 	parts, _ := disk.Partitions(true)
 	fmt.Println(parts)
-
 }
