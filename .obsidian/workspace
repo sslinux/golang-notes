@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9f3ebbeeafa88b",
+        "id": "fc890f3c169b6d02",
         "type": "leaf",
+        "dimension": 40.66193853427896,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/基本数据类型和string的转换.md",
+            "file": "Golang/Go文件操作.md",
             "mode": "source"
           }
         },
-        "group": "9a4ac404f8353f46"
+        "group": "63197414552e4934"
       },
       {
-        "id": "339dc65b7c7776a8",
+        "id": "e9833f99b65abbab",
         "type": "leaf",
+        "dimension": 59.33806146572104,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Golang/基本数据类型和string的转换.md",
+            "file": "Golang/Go文件操作.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -49,7 +51,7 @@
             }
           }
         },
-        "group": "9a4ac404f8353f46"
+        "group": "63197414552e4934"
       }
     ],
     "direction": "vertical"
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/基本数据类型和string的转换.md",
+                "file": "Golang/Go文件操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/基本数据类型和string的转换.md",
+                "file": "Golang/Go文件操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/基本数据类型和string的转换.md"
+                "file": "Golang/Go文件操作.md"
               }
             }
           }
@@ -164,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb9f3ebbeeafa88b",
+  "active": "fc890f3c169b6d02",
   "lastOpenFiles": [
-    "Golang/基本数据类型和string的转换.md",
+    "Golang/Go文件操作.md",
+    "Golang/创建空文件.md",
+    "GolangNotes.md",
     "Golang/Golang基本数据类型.md",
     "Golang/基本数据类型转换.md",
-    "GolangNotes.md",
-    "Pasted image 20211125231135.png",
-    "Golang/false.md",
-    "Golang/默认值.md",
-    "Golang/Go变量.md",
-    "Golang/Golang扩展数据类型.md",
-    "Golang/加号.md"
+    "Golang/硬链接和软链接.md",
+    "Golang/改变文件时间戳.md",
+    "Golang/改变文件拥有者.md",
+    "Golang/改变文件权限.md",
+    "Golang/检查文件读写权限.md"
   ]
 }
