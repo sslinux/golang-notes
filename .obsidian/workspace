@@ -6,11 +6,11 @@
       {
         "id": "fc890f3c169b6d02",
         "type": "leaf",
-        "dimension": 46.88172043010753,
+        "dimension": 41.344086021505376,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Golang/使用缓存读.md",
+            "file": "Golang/Go文件操作.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "e9833f99b65abbab",
         "type": "leaf",
-        "dimension": 53.118279569892465,
+        "dimension": 58.655913978494624,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Golang/使用缓存读.md",
+            "file": "Golang/Go文件操作.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207,
-    "collapsed": true
+    "width": 249
   },
   "right": {
     "id": "64e6a343a0d9b77e",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/使用缓存读.md",
+                "file": "Golang/Go文件操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/使用缓存读.md",
+                "file": "Golang/Go文件操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/使用缓存读.md"
+                "file": "Golang/Go文件操作.md"
               }
             }
           }
@@ -169,15 +168,15 @@
   },
   "active": "fc890f3c169b6d02",
   "lastOpenFiles": [
-    "Golang/使用缓存读.md",
     "Golang/Go文件操作.md",
+    "GolangNotes.md",
+    "Golang/golang与云存储.md",
+    "Golang/使用缓存读.md",
     "Golang/快读到内存.md",
     "Golang/读取全部字节.md",
     "Golang/使用缓存写.md",
     "Golang/读取至少N个字节.md",
     "Golang/读取正好N个字节.md",
-    "Golang/读取最多N个字节.md",
-    "Golang/快写文件.md",
-    "Golang/写文件.md"
+    "Golang/读取最多N个字节.md"
   ]
 }
