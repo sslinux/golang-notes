@@ -17,5 +17,11 @@
   "spellcheck": true,
   "readableLineLength": false,
   "strictLineBreaks": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
 }
