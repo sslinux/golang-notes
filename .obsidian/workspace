@@ -6,12 +6,21 @@
       {
         "id": "7515f2ee8df61503",
         "type": "leaf",
+<<<<<<< HEAD
         "state": {
           "type": "markdown",
           "state": {
             "file": "GolangNotes.md",
             "mode": "source",
             "source": false
+=======
+        "dimension": 58.90751086281812,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Golang/使用scanner.md",
+            "mode": "source"
+>>>>>>> 1b6b9297d3f0f6cdb4182b599e78d4e657ff0b41
           }
         },
         "group": "a9e5a3367fb554a1"
@@ -19,10 +28,18 @@
       {
         "id": "a0f8785dc7d03ee3",
         "type": "leaf",
+<<<<<<< HEAD
         "state": {
           "type": "localgraph",
           "state": {
             "file": "GolangNotes.md",
+=======
+        "dimension": 41.09248913718188,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Golang/使用scanner.md",
+>>>>>>> 1b6b9297d3f0f6cdb4182b599e78d4e657ff0b41
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -98,7 +115,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 207
+=======
+    "width": 249
+>>>>>>> 1b6b9297d3f0f6cdb4182b599e78d4e657ff0b41
   },
   "right": {
     "id": "64e6a343a0d9b77e",
@@ -114,7 +135,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "GolangNotes.md",
+=======
+                "file": "Golang/使用scanner.md",
+>>>>>>> 1b6b9297d3f0f6cdb4182b599e78d4e657ff0b41
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +156,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "GolangNotes.md",
+=======
+                "file": "Golang/使用scanner.md",
+>>>>>>> 1b6b9297d3f0f6cdb4182b599e78d4e657ff0b41
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +183,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "GolangNotes.md"
+=======
+                "file": "Golang/使用scanner.md"
+>>>>>>> 1b6b9297d3f0f6cdb4182b599e78d4e657ff0b41
               }
             }
           }
@@ -167,15 +200,28 @@
   },
   "active": "7515f2ee8df61503",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "GolangNotes.md",
     "Golang/循环控制.md",
     "Golang/goto语句.md",
     "Golang/跳转控制语句.md",
     "Golang/mermaid.md",
     "Golang/使用缓存读.md",
+=======
+    "Golang/使用scanner.md",
+>>>>>>> 1b6b9297d3f0f6cdb4182b599e78d4e657ff0b41
     "Golang/Go文件操作.md",
+    "Golang/使用缓存读.md",
+    "GolangNotes.md",
+    "Golang/golang与云存储.md",
     "Golang/快读到内存.md",
     "Golang/读取全部字节.md",
+<<<<<<< HEAD
     "Golang/使用缓存写.md"
+=======
+    "Golang/使用缓存写.md",
+    "Golang/读取至少N个字节.md",
+    "Golang/读取正好N个字节.md"
+>>>>>>> 1b6b9297d3f0f6cdb4182b599e78d4e657ff0b41
   ]
 }
