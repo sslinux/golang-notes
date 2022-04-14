@@ -17,5 +17,7 @@
   "spellcheck": true,
   "readableLineLength": false,
   "strictLineBreaks": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
