@@ -11,3 +11,5 @@
 ## [[imag]]
 ## [[panic]]
 ## [[recover]]
+## [[print]]
+## [[println]]

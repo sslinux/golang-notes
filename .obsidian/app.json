@@ -19,5 +19,13 @@
   "strictLineBreaks": true,
   "showFrontmatter": false,
   "legacyEditor": false,
+<<<<<<< HEAD
   "livePreview": true
+=======
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
+>>>>>>> 8ebe8ebec1d42e8b22d07a1cdc828dd8ea97c999
 }

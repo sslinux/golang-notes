@@ -3,6 +3,8 @@
 
 ## func make
 
+* 用来分配内存，返回Type本身(只能应用于slice，map，channel)
+
 ```go
 func make(Type, size IntegerType) Type
 ```
